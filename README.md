@@ -1,4 +1,8 @@
-# [505 Emergency](https://github.com) - Empowering Hope, Saving Lives
+<p align="center">
+ <img src="https://github.com/BigOnake/505_Emergency/assets/60398328/4c140003-4d06-4a9f-8b6c-1145ca4b0266"/>
+</p>
+
+# [505 Emergency](https://github.com/BigOnake/505_Emergency) - Empowering Hope, Saving Lives
 ## Inspiration: 
 Empowering Hope, Saving Lives: SOS Emergency,  we desired to assist those in dangerous situations with a safer way to contact help.
 
@@ -26,17 +30,22 @@ Connect your Android device to your computer with a USB cable.
 
 Enter:
 ```bash
-cd [project].
+cd 505_Emergency.
 ```
 Run :
 ```bash
-flutter install.
+flutter install
 ```
-
+Dependencies:
+```bash
+shared_preferences
+flutter_phonw_direct_caller
+wakelock
+```
 
 ## Contributing
 
-This is a project that is specifically made for [Pickhacks 2024](https://www.pickhacks.io/).
+This project is specifically made for [Pickhacks 2024](https://www.pickhacks.io/).
 
 So, this might be open after the official event ends.
 
