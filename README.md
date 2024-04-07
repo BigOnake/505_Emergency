@@ -1,16 +1,45 @@
-# my_505
+# [505 Emergency](https://github.com) - Empowering Hope, Saving Lives
+## Inspiration: 
+Empowering Hope, Saving Lives: SOS Emergency,  we desired to assist those in dangerous situations with a safer way to contact help.
 
-A new Flutter project.
+## What it does: 
+ It is an interactive app that the user can use to 'check in' when in a situation where they may be in danger, notifying an emergency contact or the authorities if they do not keep checking in.
 
-## Getting Started
+## How we built it: 
+Using [Flutter](https://flutter.dev/), we made an Android and iOS mobile application with a button to press in an emergency.
 
-This project is a starting point for a Flutter application.
+## Challenges we ran into:
+Since it's the first time for every one of us in Hackathon, we have challenges in Github, Flutter, UI/UX, and even in Terminal. 
 
-A few resources to get you started if this is your first Flutter project:
+## Accomplishments that we're proud of: 
+ We created the whole app that works with Flutter, mainly we worked as a 'team' which is the prior thing for us, as we were good at SDLC.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What we learned: 
+ We learned to work in teams using GitHub, and how not to use GitHub. We learned Flutter the most.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What's next for 505 Emergency: 
+ We wanted to add live location sharing along with sending an SMS option to the emergency contact and required authorities if needed.
+
+## Installation
+
+Connect your Android device to your computer with a USB cable.
+
+Enter:
+```bash
+cd [project].
+```
+Run :
+```bash
+flutter install.
+```
+
+
+## Contributing
+
+This is a project that is specifically made for [Pickhacks 2024](https://www.pickhacks.io/).
+
+So, this might be open after the official event ends.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
